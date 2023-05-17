@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @ceceayo
 - 👀 I’m interested in coding games
 - 🌱 I’m currently learning haxe
-- 📫 How to reach me: discord carby#9363
